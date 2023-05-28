@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Billasrinu
-- 👀 I’m interested in ETHICAL HACKING , SOCIAL ENGINEERING ETC.
-- 🌱 I’m currently learning ETHICAL HACCKING
+- 👀 I’m interested in python programming and machine learning
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
