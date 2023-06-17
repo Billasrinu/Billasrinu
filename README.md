@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Billasrinu
+- 👋 Hi, I’m @Billa
 - 👀 I’m interested in python programming and machine learning
 - 💞️ I’m looking to collaborate on working with machine learning profissionals
 
