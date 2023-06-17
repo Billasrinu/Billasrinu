@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Billasrinu
 - 👀 I’m interested in python programming and machine learning
+- 💞️ I’m looking to collaborate on working with machine learning profissionals
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Billasrinu/Billasrinu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
